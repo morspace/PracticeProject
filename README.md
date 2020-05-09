@@ -1,2 +1,2 @@
 # PracticeProject
-02-bilibili 是一个vue练手小项目
+02-bilibili 是一个微信小程序练手项目
